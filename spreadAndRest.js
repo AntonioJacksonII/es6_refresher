@@ -11,7 +11,7 @@ const person = {
 
 const newPerson = {
     ...person,
-    age: '32'
+    age: 32
 };
 console.log(newPerson);
 
